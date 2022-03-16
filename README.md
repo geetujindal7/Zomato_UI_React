@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-
+# Zomato Website UI in React JS
 
 
 ![gif](https://im5.ezgif.com/tmp/ezgif-5-faeb50fed6.gif)
