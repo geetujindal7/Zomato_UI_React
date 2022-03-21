@@ -1,7 +1,10 @@
 # Zomato Website UI in React JS
 
 
-![gif](https://j.gifs.com/57wEEB.gif)
+
+
+https://user-images.githubusercontent.com/28182246/159279225-b403e7f4-4a91-4db6-b6c3-0c6927e72796.mp4
+
 
 
 
