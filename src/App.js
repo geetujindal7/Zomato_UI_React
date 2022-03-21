@@ -1,26 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
-import Header from './Components/Header';
-import Cards from './Components/Cards';
-import Collection from './Components/Collection';
-import Places from './Components/Places';
-import Mobile from './Components/Mobile';
-import Footer from './Components/Foote';
-import Cities from './Components/Cities';
-import Footer_end from './Components/Footer_end';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+
+
+import HomePage from './Components/HomePage';
+import AR_homepage from './Components/AR_Restaurents/AR_homepage';
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-     <Cards />
-     <Collection />
-     <Places />
-     <Mobile />
-     <Footer />
-     <Cities />
-     <Footer_end />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={
+          <>
+          
+            <HomePage />
+          </>} />
+          <Route path="/partner_with_us" element={
+          <>
+           <AR_homepage />
+           
+          </>} />
+
+      </Routes>
+    </Router>
   );
 }
 
