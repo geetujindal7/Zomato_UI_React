@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Zomato Website UI in React JS
+
+
+![gif](https://im5.ezgif.com/tmp/ezgif-5-faeb50fed6.gif)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
