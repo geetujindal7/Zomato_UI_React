@@ -1,7 +1,7 @@
 # Zomato Website UI in React JS
 
 
-![gif](https://im5.ezgif.com/tmp/ezgif-5-faeb50fed6.gif)
+![gif](https://j.gifs.com/57wEEB.gif)
 
 
 
